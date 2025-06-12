@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Henry!
 
-🎓 I'm a Data Science student at QUT, passionate about exploring the frontiers of AI and Machine Learning. When I'm not coding, you'll find me hiking new trails or capturing moments through my camera lens.
+🎓 I'm a Data Science student at QUT, passionate about exploring the frontiers of AI and Machine Learning. When I'm not coding, you'll find me capturing moments through my camera lens.
 
 ---
 
